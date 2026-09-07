@@ -30,7 +30,7 @@ dependencies:
   # sqlite3 — required directly for open.overrideFor() to load libsqlcipher.so
   sqlite3: ^2.9.4
   # Secure storage for the DB encryption key (Keystore on Android, Keychain on iOS)
-  flutter_secure_storage: ^10.3.1
+  flutter_secure_storage: ^11.0.0
 
   # Dependency Injection
   get_it: ^9.0.0
