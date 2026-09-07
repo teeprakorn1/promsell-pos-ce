@@ -51,7 +51,7 @@ dependencies:
 
   # UI Animation
   animated_flip_counter: ^0.3.4
-  shimmer: ^3.0.0
+  shimmer: ^4.0.0
   fl_chart: ^0.70.2
 
   # Merchant Tools
