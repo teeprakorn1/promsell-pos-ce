@@ -52,7 +52,7 @@ dependencies:
   # UI Animation
   animated_flip_counter: ^0.3.4
   shimmer: ^3.0.0
-  fl_chart: ^0.70.2
+  fl_chart: ^1.2.0
 
   # Merchant Tools
   share_plus: ^13.3.0
